@@ -1,3 +1,3 @@
 git repository: https://github.com/thesmartcoder7/image-filter
 
-elasticbeanstalk url: 
+elasticbeanstalk url: http://image-filter-dev22222222.us-east-1.elasticbeanstalk.com/
